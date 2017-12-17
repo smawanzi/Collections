@@ -1,0 +1,4 @@
+U:\Option Slam\SLAM2\SLAM 2 2016-2017\collection\collection\exo2\bin\Debug\exo2.exe
+U:\Option Slam\SLAM2\SLAM 2 2016-2017\collection\collection\exo2\bin\Debug\exo2.pdb
+U:\Option Slam\SLAM2\SLAM 2 2016-2017\collection\collection\exo2\obj\x86\Debug\exo2.exe
+U:\Option Slam\SLAM2\SLAM 2 2016-2017\collection\collection\exo2\obj\x86\Debug\exo2.pdb

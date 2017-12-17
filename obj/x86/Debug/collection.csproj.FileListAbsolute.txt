@@ -1,0 +1,4 @@
+U:\Option Slam\SLAM2\SLAM 2 2016-2017\collection\collection\collection\bin\Debug\collection.exe
+U:\Option Slam\SLAM2\SLAM 2 2016-2017\collection\collection\collection\bin\Debug\collection.pdb
+U:\Option Slam\SLAM2\SLAM 2 2016-2017\collection\collection\collection\obj\x86\Debug\collection.exe
+U:\Option Slam\SLAM2\SLAM 2 2016-2017\collection\collection\collection\obj\x86\Debug\collection.pdb
